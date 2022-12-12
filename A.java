@@ -10,6 +10,9 @@ public class A {
 		
 		A a2 = new A();
 		System.out.print(a2);
+
+		A a 3= new A();
+		System.out.print(a3);
 		
 		}
 
